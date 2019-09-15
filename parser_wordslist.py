@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-from bs4 import BeautifulSoup
 import time
 
 path = 'D:\\rangbm.wandererhc\\WMP\\3_WP_ver.2\\chromedriver.exe'
