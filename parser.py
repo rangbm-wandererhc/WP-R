@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-from bs4 import BeautifulSoup
 import time
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
@@ -793,4 +792,4 @@ while i2<fin_num_of_words:
 	
 
 print("program ended")
-print("contact: rangbm.wandererhc@gmail.com")
+
