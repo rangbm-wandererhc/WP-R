@@ -19,9 +19,3 @@ def parser_wordlistspa(url):
 	for word in words:
 		print('"'+word.get_attribute("innerText")+'",')
 
-parser_wordlistspa("https://wordplay.com/printableCourse/2426")
-parser_wordlistspa("https://wordplay.com/printableCourse/2649")
-parser_wordlistspa("https://wordplay.com/printableCourse/18")
-parser_wordlistspa("https://wordplay.com/printableCourse/343")
-parser_wordlistspa("https://wordplay.com/printableCourse/5762")
-parser_wordlistspa("https://wordplay.com/printableCourse/934")
